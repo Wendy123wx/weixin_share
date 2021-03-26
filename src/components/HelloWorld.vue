@@ -74,12 +74,6 @@ export default {
         }
       }
     }
-    // .semi-circle-right{
-    //   transform-origin: 0 50%;
-    // }
-    // .semi-circle-left{
-    //   transform-origin: 50% 0;
-    // }
   }
 }
 
